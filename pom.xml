@@ -11,6 +11,7 @@
         <module>nacos-discovery</module>
         <module>nacos-consumer</module>
         <module>nacos-config</module>
+        <module>alibaba-sentinel</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
@@ -47,8 +48,6 @@
                 <scope>import</scope>
             </dependency>
         </dependencies>
-
-
     </dependencyManagement>
 
 </project>

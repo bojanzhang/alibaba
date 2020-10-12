@@ -1,0 +1,12 @@
+server:
+  port: 8300
+spring:
+  application:
+    name: sentinel-client
+  cloud:
+    sentinel:
+      transport:
+        port: 8719
+        dashboard: localhost:8080
+
+
