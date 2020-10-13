@@ -12,6 +12,7 @@
         <module>nacos-consumer</module>
         <module>nacos-config</module>
         <module>alibaba-sentinel</module>
+        <module>rocketmq</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
